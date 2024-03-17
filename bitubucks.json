@@ -1,33 +1,14 @@
 {
-    "name": "BituBucks",
-    "symbol": "BBK",
-    "description": "Welcome to BituBucks - the ultimate solution for degenerate shitcoiners! Tired of getting rekt by outrageous prices? BituBucks is your ticket to the moon with its next-level blockchain technology, lightning-fast transactions, and fees so low you'll think you're dreaming. Ape in and join the revolution!",
-    "seller_fee_basis_points": 500,
-    "image": "https://i.imgur.com/mtv375u.jpeg",
-    "attributes": [
-      {
-        "trait_type": "Rarity",
-        "value": "Common"
-      }
-    ],
-    "collection": {
-      "name": "BituBucks Collection",
-      "family": "BituBucks"
-    },
-    "properties": {
-      "files": [
-        {
-          "uri": "https://i.imgur.com/mtv375u.jpeg",
-          "type": "image/jpeg"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "FFpTb8CxMiaXgbs1srUHc4zEgeLVDBfytjGQkST3D9HQ",
-          "share": 100
-        }
-      ]
+  "name": "BituBucks",
+  "symbol": "BITU",
+  "description": "BituBucks is a cryptocurrency on the Solana blockchain.",
+  "image": "https://example.com/bitubucks_logo.png",
+  "external_url": "https://bitubucks.com",
+  "decimals": 9,
+  "attributes": [
+    {
+      "trait_type": "Cryptocurrency",
+      "value": "Solana"
     }
-  }
-  
+  ]
+}
